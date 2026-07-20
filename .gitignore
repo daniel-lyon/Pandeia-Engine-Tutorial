@@ -1,0 +1,8 @@
+# Environments
+.venv
+.claude
+
+# Data
+/data/grp/
+/data/pandeia_data-2026.7-jwst
+/data/pandeia_psfs-2026.7rc1-jwst

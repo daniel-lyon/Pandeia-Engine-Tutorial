@@ -1,16 +1,16 @@
 # Pandeia core (versions per the STScI page)
-pandeia.engine==2026.2
-numpy==2.3.1
-scipy==1.16.0
-astropy==7.1.0
-photutils==2.2.0
-synphot==1.6.0
-stsynphot==1.4.0
-setuptools==80.9.0
+pandeia.engine==2026.7
+numpy==2.4.2
+scipy==1.17.1
+astropy==7.2.0
+photutils==2.3.0
+synphot==1.6.1
+stsynphot==1.5.0
+setuptools==81.0.0
 
 # Tutorial extras 
-matplotlib==3.11.0
-ipykernel==7.3.0
+matplotlib>=3.11.0
+ipykernel>=7.3.0
 tqdm # progress bars
-jwst_backgrounds==1.3.0 # sky background vs date
-jwst_gtvt==1.2 # target visibility / V3PA
+jwst_backgrounds>=1.3.0 # sky background vs date
+jwst_gtvt>=1.2 # target visibility / V3PA
